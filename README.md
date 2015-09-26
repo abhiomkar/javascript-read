@@ -16,6 +16,12 @@ http://addyosmani.com/largescalejavascript/
 Learning JavaScript Design Patterns
 http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
+Performance
+-----------
+
+Rendering Performance
+https://developers.google.com/web/fundamentals/performance/rendering/index
+
 Books
 -----
 [JavaScript: The Good Parts by Douglas Crockford](http://www.amazon.in/Javascript-Good-Parts-D-Crockford/dp/0596517742)
