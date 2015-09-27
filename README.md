@@ -10,6 +10,9 @@ http://exploringjs.com/es6/
 Speaking JavaScript:
 http://speakingjs.com/
 
+Mozilla JavaScript (MDN):
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 Patterns For Large-Scale JavaScript Application Architecture
 http://addyosmani.com/largescalejavascript/
 
